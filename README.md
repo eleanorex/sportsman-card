@@ -1,2 +1,2 @@
-# sportsman-card
+# https://eleanorex.github.io/sportsman-card/
  
